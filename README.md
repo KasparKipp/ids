@@ -22,3 +22,7 @@ Course project for [Introduction to Data Science 2024](https://courses.cs.ut.ee/
    ```bash
    git clone https://github.com/KasparKipp/ids
    ```
+2. Download the zipped project files from [Google Drive](https://drive.google.com/drive/folders/1_YG7KYaZFdaW86ofnLIuAoZsULiIB-yl?usp=sharing)
+
+3. Unzip the files into the project directory, remove the wrapper directory if needed
+
